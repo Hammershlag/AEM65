@@ -10,9 +10,9 @@
             jcr:primaryType="nt:unstructured"
             sling:resourceType="mysite/components/container"
             layout="responsiveGrid">
-            <title
+            <headline
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="mysite/components/title"/>
+                    sling:resourceType="mysite/components/headline"/>
             <container
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="mysite/components/container"

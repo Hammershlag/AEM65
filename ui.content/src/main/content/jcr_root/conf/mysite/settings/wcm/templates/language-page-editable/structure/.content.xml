@@ -15,9 +15,9 @@
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="mysite/components/experiencefragment"
                     fragmentVariationPath="/content/experience-fragments/mysite/us/en/site/header/master"/>
-            <title
+            <headline
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="mysite/components/title"
+                    sling:resourceType="mysite/components/headline"
                     editable="{Boolean}true"/>
             <container
                     jcr:primaryType="nt:unstructured"

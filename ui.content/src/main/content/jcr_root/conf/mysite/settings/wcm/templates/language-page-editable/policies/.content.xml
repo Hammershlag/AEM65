@@ -55,8 +55,8 @@
                     </components>
                 </mysite>
             </container>
-            <title
-                    cq:policy="mysite/components/title/policy_641475696923110"
+            <headline
+                    cq:policy="mysite/components/headline/policy_641528232375302"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="wcm/core/components/policies/mapping"/>
         </root>

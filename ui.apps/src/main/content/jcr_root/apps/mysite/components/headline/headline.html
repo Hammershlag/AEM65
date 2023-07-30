@@ -1,0 +1,7 @@
+<sly data-sly-use.model="com.mysite.core.models.headline.HeadlineModel"
+     data-sly-test.valid="${model.valid}">
+    <h1>${model.title}</h1>
+    <h3>${model.description}</h3>
+</sly>
+<sly data-sly-use.templates="core/wcm/components/commons/v1/templates.html"
+     data-sly-call="${templates.placeholder @ isEmpty = !valid}"></sly>
