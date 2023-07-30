@@ -6,6 +6,6 @@
         cq:template="/conf/mysite/settings/wcm/templates/page-content"
         jcr:primaryType="cq:PageContent"
         jcr:title="us"
-        sling:resourceType="mysite/components/page"/>
+        sling:resourceType="mysite/components/page/basepage"/>
     <en/>
 </jcr:root>

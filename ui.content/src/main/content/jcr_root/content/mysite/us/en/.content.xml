@@ -8,7 +8,7 @@
         cq:contextHubPath="/etc/cloudsettings/default/contexthub"
         cq:contextHubSegmentsPath="/etc/segmentation/contexthub"
         cq:template="/conf/mysite/settings/wcm/templates/page-content"
-        sling:resourceType="mysite/components/page"
+        sling:resourceType="mysite/components/page/basepage"
     >
         <root
             jcr:primaryType="nt:unstructured"

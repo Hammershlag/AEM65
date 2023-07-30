@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/conf/mysite" mode="merge"/>
-    <filter root="/content/mysite" mode="merge"/>
+    <filter root="/conf/mysite" />
+    <filter root="/content/mysite" />
     <filter root="/content/dam/mysite" mode="merge">
         <exclude pattern="/content/dam/mysite(/.*)?"/>
         <include pattern="/content/dam/mysite/jcr:content(/.*)?"/>
