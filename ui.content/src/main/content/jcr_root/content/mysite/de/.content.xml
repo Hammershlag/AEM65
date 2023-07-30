@@ -3,7 +3,7 @@
           xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
           jcr:primaryType="cq:Page">
     <jcr:content
-            cq:allowedTemplates="[]"
+            cq:allowedTemplates="[conf\mysite\settings\wcm\templates\folder-page-editable]"
             cq:template="/conf/mysite/settings/wcm/templates/language-page-editable"
             jcr:primaryType="cq:PageContent"
             jcr:title="de"
